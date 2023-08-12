@@ -13,7 +13,7 @@ const Common = (prop) => {
                 <div className='col-md-6 pt-5 pt-lg-0 order-lg-1 d-flex flex-column justify-content-center'>
                     <h1>{prop.name}</h1>
                     <h2 className='my-3'>
-                        We are the team of talented developer here
+                        We are the team of talented developer here come
                     </h2>
                     <div className='mt-3'>
                         <NavLink to={prop.visit} className='btn_get_started'>{prop.btnname}</NavLink>
